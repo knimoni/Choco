@@ -1,0 +1,41 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Tree.tscn" type="PackedScene" id=1]
+
+[node name="Node2D" type="YSort"]
+
+[node name="StaticBody2D" type="StaticBody2D" parent="." instance=ExtResource( 1 )]
+position = Vector2( -208, 32 )
+
+[node name="StaticBody2D2" type="StaticBody2D" parent="." instance=ExtResource( 1 )]
+position = Vector2( -176, 0 )
+
+[node name="StaticBody2D3" type="StaticBody2D" parent="." instance=ExtResource( 1 )]
+position = Vector2( -208, 0 )
+
+[node name="StaticBody2D4" type="StaticBody2D" parent="." instance=ExtResource( 1 )]
+position = Vector2( -208, -32 )
+
+[node name="StaticBody2D5" type="StaticBody2D" parent="." instance=ExtResource( 1 )]
+position = Vector2( -176, 32 )
+
+[node name="StaticBody2D6" type="StaticBody2D" parent="." instance=ExtResource( 1 )]
+position = Vector2( -176, -32 )
+
+[node name="StaticBody2D7" type="StaticBody2D" parent="." instance=ExtResource( 1 )]
+position = Vector2( -176, -64 )
+
+[node name="StaticBody2D8" type="StaticBody2D" parent="." instance=ExtResource( 1 )]
+position = Vector2( -208, -64 )
+
+[node name="StaticBody2D9" type="StaticBody2D" parent="." instance=ExtResource( 1 )]
+position = Vector2( -176, -96 )
+
+[node name="StaticBody2D10" type="StaticBody2D" parent="." instance=ExtResource( 1 )]
+position = Vector2( -208, -96 )
+
+[node name="StaticBody2D11" type="StaticBody2D" parent="." instance=ExtResource( 1 )]
+position = Vector2( -176, -128 )
+
+[node name="StaticBody2D12" type="StaticBody2D" parent="." instance=ExtResource( 1 )]
+position = Vector2( -208, -128 )

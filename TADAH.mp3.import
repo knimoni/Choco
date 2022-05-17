@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/TADAH.mp3-a3405beaeab8121321ab2a44507df022.mp3str"
+
+[deps]
+
+source_file="res://TADAH.mp3"
+dest_files=[ "res://.import/TADAH.mp3-a3405beaeab8121321ab2a44507df022.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

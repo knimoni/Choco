@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/finish song choco mp3.mp3-026216f0661327bd1ed8840fe9c09bb5.mp3str"
+
+[deps]
+
+source_file="res://finish song choco mp3.mp3"
+dest_files=[ "res://.import/finish song choco mp3.mp3-026216f0661327bd1ed8840fe9c09bb5.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

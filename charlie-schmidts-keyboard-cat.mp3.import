@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/charlie-schmidts-keyboard-cat.mp3-129aa0be562179c90847cb3721708628.mp3str"
+
+[deps]
+
+source_file="res://charlie-schmidts-keyboard-cat.mp3"
+dest_files=[ "res://.import/charlie-schmidts-keyboard-cat.mp3-129aa0be562179c90847cb3721708628.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

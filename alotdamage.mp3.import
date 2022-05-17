@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/alotdamage.mp3-497c84690929b5765efa8c7f09c730c7.mp3str"
+
+[deps]
+
+source_file="res://alotdamage.mp3"
+dest_files=[ "res://.import/alotdamage.mp3-497c84690929b5765efa8c7f09c730c7.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

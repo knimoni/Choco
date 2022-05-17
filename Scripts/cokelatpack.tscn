@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Cokelat.tscn" type="PackedScene" id=1]
+
+[node name="cokelatpack" type="Node"]
+
+[node name="Cokelat2" parent="." instance=ExtResource( 1 )]
+position = Vector2( 116, -26 )
+
+[node name="Cokelat7" parent="." instance=ExtResource( 1 )]
+position = Vector2( -72, -354 )
+
+[connection signal="body_entered" from="Cokelat2" to="Cokelat2" method="_on_Cokelat2_body_entered"]
+[connection signal="body_entered" from="Cokelat7" to="Cokelat7" method="_on_Cokelat7_body_entered"]

@@ -1,0 +1,44 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://cokelat HUD.png" type="Texture" id=2]
+
+[sub_resource type="Theme" id=47]
+
+[sub_resource type="StyleBoxFlat" id=48]
+bg_color = Color( 0, 0, 0, 0.513726 )
+corner_radius_top_left = 10
+corner_radius_top_right = 10
+corner_radius_bottom_right = 10
+corner_radius_bottom_left = 10
+
+[node name="mainHUD" type="Node2D"]
+
+[node name="HUD" type="CanvasLayer" parent="."]
+
+[node name="Panel" type="Panel" parent="HUD"]
+margin_left = 247.0
+margin_top = 6.0
+margin_right = 314.0
+margin_bottom = 37.0
+theme = SubResource( 47 )
+custom_styles/panel = SubResource( 48 )
+
+[node name="Sprite" type="Sprite" parent="HUD"]
+position = Vector2( 263, 22 )
+scale = Vector2( 0.0704999, 0.0704999 )
+texture = ExtResource( 2 )
+
+[node name="X" type="Label" parent="HUD"]
+margin_left = 281.0
+margin_top = 15.0
+margin_right = 290.0
+margin_bottom = 29.0
+custom_constants/line_spacing = 0
+text = "X"
+
+[node name="cokelatnya" type="Label" parent="HUD"]
+margin_left = 294.0
+margin_top = 15.0
+margin_right = 313.0
+margin_bottom = 29.0
+text = "##"

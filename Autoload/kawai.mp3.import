@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/kawai.mp3-684d8b78b9625558a1847c266f056e7e.mp3str"
+
+[deps]
+
+source_file="res://Autoload/kawai.mp3"
+dest_files=[ "res://.import/kawai.mp3-684d8b78b9625558a1847c266f056e7e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
