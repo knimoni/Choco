@@ -14,4 +14,4 @@ This game was built using the "Godot Game Engine" by creating resources such as 
 
 ## Players controls
 
-<kbd>A</kbd> : Left <kbd>W</kbd> : Up <kbd>D</kbd> : Right  <kbd>S</kbd> : Downs
+<kbd>A</kbd> : Left <kbd>W</kbd> : Up <kbd>D</kbd> : Right  <kbd>S</kbd> : Down
